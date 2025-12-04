@@ -75,7 +75,7 @@ Mensagens informativas
 
 🕹️ Como Executar
 1️⃣ Clone o repositório
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/Matheusjsg/projeto-cofre-UNINTER
 
 2️⃣ Abra o projeto na sua IDE (IntelliJ/Eclipse/VS Code)
 
